@@ -25,7 +25,7 @@ const blogData = {
       preview: "React, meet OOJS.",
       minutes: 47,
     },
-  ],
+  ]
 };
 
 export default blogData;
